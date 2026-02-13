@@ -1,0 +1,5 @@
+{
+  "name": "SequenceFlow Dashboard",
+  "description": "A high-fidelity email sequence analytics dashboard featuring an animated visualization of campaign performance steps, including ROAS metrics.",
+  "requestFramePermissions": []
+}
